@@ -1,1 +1,3 @@
-console.log("Bug fix")
+console.log('Bug fix');
+
+const pair = 'healthy people';
